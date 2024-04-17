@@ -21,4 +21,4 @@
 </a>
 </p>
 
-- <a href="https://shopee.co.id/product/78709625/2221051549?smtt=0.78711099-1649659904.9" target="_blank">https://shopee.co.id/product/78709625/2221051549?smtt=0.78711099-1649659904.9</a>
+- <a href="https://shopee.co.id/product/78709625/4836708851?smtt=0.78711099-1649659917.9" target="_blank">https://shopee.co.id/product/78709625/4836708851?smtt=0.78711099-1649659917.9</a>
