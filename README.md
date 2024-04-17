@@ -8,9 +8,9 @@
 
 - <a href="https://github.com/bsrahmat/ebook-02/blob/main/EBook02_Kinect_Robot.pdf" target="_blank">EBook02_Kinect_Robot.pdf</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.academia.edu/117610808" target="_blank">https://www.academia.edu/117610808</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.researchgate.net/publication/379871779" target="_blank">https://www.researchgate.net/publication/379871779</a>
 
 <br>
 
