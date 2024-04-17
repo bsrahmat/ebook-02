@@ -22,3 +22,12 @@
 </p>
 
 - <a href="https://shopee.co.id/product/78709625/4836708851?smtt=0.78711099-1649659917.9" target="_blank">https://shopee.co.id/product/78709625/4836708851?smtt=0.78711099-1649659917.9</a>
+
+<br>
+
+### Bib-tex file to cite this book:
+
+- <a href="https://github.com/bsrahmat/ebook-02/blob/main/EBook02_Kinect_Robot.bib" target="_blank">EBook02_Kinect_Robot.bib</a>
+
+<br>
+
